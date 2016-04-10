@@ -1,0 +1,14 @@
+1. How does your gem take advantage of Ruby’s metaprogramming capabilities?
+  I used Ruby's class_eval method on re-opened String class to define 9
+  different new methods.
+
+2. How long did you spend working on this project?
+  2 hours
+
+3. What was the most rewarding challenge you conquered?
+  I got to play around with metaprogramming capabilities of Ruby, which I did
+  not have a lot of chance to learn about before.
+
+4. Where do you still have room to grow?
+  Metaprogramming is a great concept, and I'll try to take advantage of it to
+  make my future applications more organized and less wordy.
