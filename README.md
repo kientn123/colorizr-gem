@@ -1,7 +1,8 @@
 # colorizr-gem
 
 Colorizr is a small ruby library used to color text outputs in terminal.
-This gem is written as part of Survivr project of Beginning Ruby Nanodegree
+This gem is written as part of Survivr project of
+[Beginning Ruby Nanodegree](https://www.udacity.com/course/beginning-ruby-nanodegree--nd010)
 from Udacity.
 
 ### Usage
@@ -19,7 +20,7 @@ or
 ### Installation
 Download the zip file [here](https://github.com/kientn123/colorizr-gem/archive/master.zip).
 
-Unzip it, and on terminal, go to the folder where that contains file colorizr-0.0.1.gem.
+Unzip it, and on terminal, go to the folder which contains colorizr-0.0.1.gem.
 Then install it with gem command
 
 `gem install colorizr-0.0.1.gem`
